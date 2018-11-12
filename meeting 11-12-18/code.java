@@ -70,7 +70,7 @@ class code {
         
         System.out.println(bestq[end_x][end_y]);
         
-        /*DFS using a stack in C++*/
+        /*DFS using a stack in Java*/
         
         Stack<Loc> poss = new Stack<Loc>();
 
